@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1506874943 source:/home/nitin/SPOJ/ADDREV.cpp
+	<bits/stdc++.h>
+
+1506880669 source:/home/nitin/SPOJ/NEXTPALIN.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
+1506881818 source:/home/nitin/SPOJ/MIRRORED.cpp
+	<iostream>
+	<string>
+
+1506890684 source:/home/nitin/SPOJ/Sample.cpp
+	<bits/stdc++.h>
+
